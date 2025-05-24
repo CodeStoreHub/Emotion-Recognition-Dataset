@@ -25,3 +25,5 @@ AMIGOS数据集下载链接：[AMIGOS数据集](https://hallo.codestore.pro/buy/
 HCI-Tagging数据集下载链接：[HCI-Tagging数据集](https://hallo.codestore.pro/buy/15)
 
 WESAD数据集下载链接：[WESAD数据集](https://hallo.codestore.pro/buy/20)
+
+UBFC-rPPG数据集下载链接：[UBFC-rPPG数据集](https://hallo.codestore.pro/buy/21)
